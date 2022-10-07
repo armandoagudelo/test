@@ -16,7 +16,7 @@ flowchart TD;
       C[[3. This is the text in the box]];
       D[[4. This is the text in the box]];
       E[[5. This is the text in the box]];
-      click E "armandoagudelo/test/blob/main/docs/fileInsideDocs.md" "Link for A" _blank
+      click E "armandoagudelo/test/blob/main/docs/tools.md" "Link for A" _blank
       A-->B;
       B-->C;
       C-->D;
