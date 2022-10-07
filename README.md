@@ -16,7 +16,7 @@ flowchart TD;
       C[[3. This is the text in the box]];
       D[[4. This is the text in the box]];
       E[[5. This is the text in the box]];
-      click A "https://github.com/armandoagudelo/test/wiki" "Link for A" _blank
+      click A "detail.md" "Link for A" _blank
       A-->B;
       B-->C;
       C-->D;
