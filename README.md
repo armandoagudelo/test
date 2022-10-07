@@ -34,3 +34,23 @@ Integer iaculis cursus lacus, commodo cursus lorem imperdiet eu. Quisque a dolor
 </p>
 </details>
 
+***
+
+## The team
+
+* [Team member one](mailto:armando.quintero@coxautoinc.com)
+* Team member two
+* Team member three
+* Team member four
+
+## Communication channels
+
+* Platform one
+* Platform two
+
+## Links
+
+* [Team documentation](/armandoagudelo/test)
+* [Tool one]
+* [Tool two]
+
