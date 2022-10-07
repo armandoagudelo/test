@@ -50,7 +50,7 @@ Integer iaculis cursus lacus, commodo cursus lorem imperdiet eu. Quisque a dolor
 
 ## Links
 
-* [Team documentation](/armandoagudelo/test)
-* [Tool one]
-* [Tool two]
+* [Team documentation](README.md)
+* [Tool one](docs/toolOne.md)
+* [Tool two](docs/toolTwo.md)
 
