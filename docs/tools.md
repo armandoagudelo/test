@@ -14,7 +14,8 @@ flowchart TD;
       D[[Tool one]];
       E[[Tool two]];
       F[[Tool three]];
-      click D "https://github.com/armandoagudelo/test/wiki" "Link for A" _blank
+      click D "armandoagudelo/test/blob/main/docs/toolOne.md "Link for A" _blank
+      click E "armandoagudelo/test/blob/main/docs/toolTwo.md "Link for A" _blank
       A-->B;
       B-->C;
       C-->D;
